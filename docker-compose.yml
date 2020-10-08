@@ -6,8 +6,8 @@ services:
     command: --default-authentication-plugin=mysql_native_password
     command: --innodb_use_native_aio=0
     environment:
-      MYSQL_ROOT_PASSWORD: admin 
+      MYSQL_ROOT_PASSWORD: root
     volumes:
-      - /e/proyectos/spring-restapi/docker/data:/var/lib/mysql
+      - ~/docker/data:/var/lib/mysql
     ports:
       - "3308:3306"

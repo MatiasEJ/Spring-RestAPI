@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Spring-RestAPI.iml" filepath="$PROJECT_DIR$/.idea/Spring-RestAPI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/hibernate-demo/backend-api/backend-api.iml" filepath="$PROJECT_DIR$/hibernate-demo/backend-api/backend-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend-api/backend-api.iml" filepath="$PROJECT_DIR$/backend-api/backend-api.iml" />
     </modules>
   </component>
 </project>
